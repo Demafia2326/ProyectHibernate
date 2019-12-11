@@ -1,0 +1,9 @@
+﻿<db>
+  <driver>com.mysql.jdbc.Driver</driver>
+  <host>127.0.0.1</host>
+  <bbdd>proyect</bbdd>
+  <login>root</login>
+  <password></password>
+  <schema>proyect</schema>
+</db>
+ 	
